@@ -5,7 +5,7 @@ This analysis is a key part of two important academic endeavors: a master's majo
 - `MC_Darkmatter.cc`: This is the main analysis code written for the project.
 - `input_file.hepmc`: Name of the generated HEPMC file
 - `input_file.yoda`: The input data file that will be analyzed.
-- `output_folder/`: The folder where the analysis results and visualizations will be stored.
+- `output_folder`: The folder where the analysis results and visualizations will be stored.
 
 ## Step 1: Set Up Rivet Environment
 
