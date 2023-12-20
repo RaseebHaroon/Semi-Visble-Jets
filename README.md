@@ -1,6 +1,6 @@
 # Semi-Visble-Jets
 
-This analysis is a key part of two important academic endeavors: a master's major project named "Prospects of New Physics with Jet Observables" and a conference paper titled "A Simulation Study of Soft and Hard Radiation using Jets at the LHC." We presented our findings at the 6th National Conference On Advanced Materials And Radiation Physics, hosted by the Department of Physics at the Sant Longowal Institute Of Engineering And Technology in Sangrur, Punjab, India.
+This analysis is a key part of two important academic endeavors: a master's major project named "Prospects of New Physics with Jet Observables" and a conference paper titled "[A Simulation Study of Soft and Hard Radiation using Jets at the LHC](https://iopscience.iop.org/article/10.1088/1742-6596/2663/1/012052)." We presented our findings at the 6th National Conference On Advanced Materials And Radiation Physics, hosted by the Department of Physics at the Sant Longowal Institute Of Engineering And Technology in Sangrur, Punjab, India.
 
 - `MC_Darkmatter.cc`: This is the main analysis code written for the project.
 - `input_file.hepmc`: Name of the generated HEPMC file
